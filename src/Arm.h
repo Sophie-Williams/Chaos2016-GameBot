@@ -8,6 +8,8 @@
 #ifndef SRC_ARM_H_
 #define SRC_ARM_H_
 
+#include "CANTalon.h"
+
 class Arm
 {
 private:

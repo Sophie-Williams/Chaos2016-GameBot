@@ -2,6 +2,7 @@
 #define SRC_ROLLER_H_
 
 #include "WPILib.h"
+#include "CANTalon.h"
 
 class Roller
 {
